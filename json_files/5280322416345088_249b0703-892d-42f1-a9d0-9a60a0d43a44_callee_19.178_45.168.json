@@ -1,0 +1,18 @@
+{
+    "annotation": [
+        [
+            {
+                "id": 5280322416345088,
+                "layerId": "249b0703-892d-42f1-a9d0-9a60a0d43a44",
+                "startTime": 0,
+                "endTime": 25.99,
+                "ontologyName": "Spanish",
+                "annotatedBy": "human",
+                "nothingToTranscribe": false
+            }
+        ]
+    ],
+    "nothingToAnnotate": false,
+    "ableToAnnotate": true,
+    "nothingToTranscribe": false
+}
